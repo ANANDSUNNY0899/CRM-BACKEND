@@ -12,10 +12,6 @@ This is the backend for the CRM system. It provides APIs for handling users, seg
 -  Customer and segment APIs
 -  Campaign creation and logging
 -  Campaign delivery receipt handling
--  Gemini API integration:
-  - Natural Language to Rules
-  - AI Message Suggestions
-  - Campaign Insights
 
 ##  Tech Stack
 
