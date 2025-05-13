@@ -18,7 +18,6 @@ This is the backend for the CRM system. It provides APIs for handling users, seg
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
-- Gemini API (Google Generative AI)
 - dotenv, axios, cors, nodemon
 
 ##  Getting Started
