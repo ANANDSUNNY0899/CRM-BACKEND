@@ -15,7 +15,7 @@ app.use(express.json());
 
 
 app.use(cors({
-  origin: 'https://crm-fronted-4.onrender.com/', 
+  origin: 'https://vercel.com/sunny-anands-projects/crm-fronted/C456moxum4ZTWqyjNPpSfXmDmn1N', 
   credentials: true              
 }));
 
